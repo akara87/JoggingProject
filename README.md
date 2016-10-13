@@ -1,7 +1,7 @@
 #Java Fundamental Concepts Project
 ##Base Point for Java Applications
 
-Project for creating Java Applications which do common tasks.
+Project for creating Java Applications which do jogging application common tasks.
 
 Java 7
 
@@ -11,4 +11,4 @@ Java 7
 
 Java Project for SQA Boot Camp October 3.
 
-[Jean-francois Nepton](https://github.com/SQABCOct3)
+ 
