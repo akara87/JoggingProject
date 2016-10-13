@@ -4,7 +4,7 @@
 	<groupId>com.AK</groupId>
 	<artifactId>auto-project</artifactId>
 	<version>1.0-SNAPSHOT</version>
-	<name>Basic Project</name>
+	<name>Jogging -project</name>
 	<description>Basic Java Project for Java Applications</description>
 
 	<dependencies>
